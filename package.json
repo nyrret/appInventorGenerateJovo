@@ -1,0 +1,26 @@
+{
+  "name": "simple-web-socket",
+  "version": "1.0.0",
+  "description": "A simple websocket connection using Node.js.",
+  "main": "receiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessvb/simple-web-socket.git"
+  },
+  "keywords": [
+    "websocket",
+    "node.js"
+  ],
+  "author": "jessvb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessvb/simple-web-socket/issues"
+  },
+  "homepage": "https://github.com/jessvb/simple-web-socket#readme",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
