@@ -22,5 +22,5 @@ Once you have a webpage up for AppInventor Alexa, create a skill and code some b
 
 The jovo server can then be run with the "jovo run" command.
 
-## refs
+## Refs
 Websocket code based off of https://github.com/jessvb/simple-web-socket.
